@@ -15,6 +15,11 @@ footer{
 	text-align: left;
 }
 
+i em,
+em strong{
+	font-style: normal;
+}
+
 #part-4 img{
 	height: 4em;
 	vertical-align: middle;
@@ -26,6 +31,34 @@ footer{
 	text-align: center;
 	text-indent: 0;
 	max-width: 75%;
+}
+
+[epub|type~="preface"] footer + p{
+	font-style: italic;
+	margin-top: 1em;
+	text-indent: 0;
+}
+
+[epub|type~="preface"] footer + p i{
+	font-style: normal;
+}
+
+table{
+	margin: 1em auto;
+}
+
+table thead{
+	font-variant: small-caps;
+	text-align: center;
+}
+
+table td{
+	padding: .5em;
+	vertical-align: top;
+}
+
+table td ol{
+	margin: 0;
 }
 
 [epub|type~="z3998:verse"] p{
