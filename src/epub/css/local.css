@@ -20,6 +20,14 @@ footer{
 	vertical-align: middle;
 }
 
+[epub|type~="dedication"] p{
+	margin: auto;
+	margin-top: 3em;
+	text-align: center;
+	text-indent: 0;
+	max-width: 75%;
+}
+
 [epub|type~="z3998:verse"] p{
 	text-align: left;
 	text-indent: 0;
