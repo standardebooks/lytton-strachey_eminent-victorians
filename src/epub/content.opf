@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2018-09-11T23:58:20Z</dc:date>
+		<meta property="dcterms:modified">2018-09-11T23:58:20Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -44,15 +44,20 @@
 		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/2447</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Biography</meta>
-		<dc:description id="description">Four witty and biting biographies of Victorians that take aim at the moral superiority of their time.</dc:description>
+		<dc:description id="description">Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONGDESCRIPTION </meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;&lt;i&gt;Eminent Victorians&lt;/i&gt; consists of four short biographies by Lytton Strachey of Victorians who were famous in their day: Cardinal Manning, a powerful cleric; Florence Nightingale, founder of the Red Cross; Thomas Arnold, founder of the modern-day English public school style; and General Gordon, a popular officer of the British Army.&lt;/p&gt;
+			&lt;p&gt;In Strachey’s day, these people were considered heroes and paragons of Victorian morality and ethics. But instead of lengthy, glowing biographies, Strachey opts for short, witty, and biting biographies that skewer their subjects. All of the subjects are portrayed with their human flaws and moral contradictions on full display, implicitly knocking down the sanctimonious visions of these former heroes (perhaps with the exception of Nightingale, who, while portrayed as an often-cold and mercilessly-driven taskmistress, nevertheless escaped with her reputation enhanced).&lt;/p&gt;
+			&lt;p&gt;The biographies are not only interesting for their wit, humor, and readability, but because of the windows they open to the issues of the age. Manning’s biography occurs against the backdrop of a time of upheaval in the English Catholic church, with concepts like Papal Infallability entering the picture; Nightingale’s biography shines light on the appalling conditions of war; Arnold’s biography is a lens on the development of formal education and schools; and Gordon’s biography reveals England as an empire growing more unsteady, whose ability to influence and control faraway lands is not as certain as it might think.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Eminent Victorians&lt;/i&gt; took six years to write and was met with glowing reviews on its publication. It made Strachey famous and cemented his name in the list of top-tier biographers.&lt;/p&gt;
+		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2447</dc:source>
 		<dc:source>https://books.google.com/books?id=N8oZAAAAYAAJ</dc:source>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:word-count">99062</meta>
+		<meta property="se:reading-ease.flesch">58.21</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Eminent_Victorians</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/lytton-strachey_eminent-victorians</meta>
 		<dc:creator id="author">Lytton Strachey</dc:creator>
