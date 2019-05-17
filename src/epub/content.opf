@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Eminent Victorians</dc:title>
 		<meta property="file-as" refines="#title">Eminent Victorians</meta>
 		<dc:subject id="subject-1">Great Britain -- Biography</dc:subject>
@@ -35,23 +35,27 @@
 		<dc:subject id="subject-4">Nightingale, Florence, 1820-1910</dc:subject>
 		<dc:subject id="subject-5">Arnold, Thomas, 1795-1842</dc:subject>
 		<dc:subject id="subject-6">Gordon, Charles George, 1833-1885</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/2447</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/2447</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/2447</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/2447</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/2447</meta>
-		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/2447</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85056608</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2007100270</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">Unknown</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">Unknown</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">Unknown</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Biography</meta>
 		<dc:description id="description">Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Eminent Victorians&lt;/i&gt; consists of four short biographies by Lytton Strachey of Victorians who were famous in their day: Cardinal Manning, a powerful cleric; Florence Nightingale, founder of modern nursing; Thomas Arnold, founder of the modern-day English public school style; and General Gordon, a popular officer of the British Army.&lt;/p&gt;
 			&lt;p&gt;In Strachey’s day, these people were considered heroes and paragons of Victorian morality and ethics. But instead of lengthy, glowing biographies, Strachey opts for short, witty, and biting biographies that skewer their subjects. All of the subjects are portrayed with their human flaws and moral contradictions on full display, implicitly knocking down the sanctimonious visions of these former heroes (perhaps with the exception of Nightingale, who, while portrayed as an often-cold and mercilessly-driven taskmistress, nevertheless escaped with her reputation enhanced).&lt;/p&gt;
 			&lt;p&gt;The biographies are not only interesting for their wit, humor, and readability, but because of the windows they open to the issues of the age. Manning’s biography occurs against the backdrop of a time of upheaval in the English Catholic church, with concepts like Papal Infallability entering the picture; Nightingale’s biography shines light on the appalling conditions of war; Arnold’s biography is a lens on the development of formal education and schools; and Gordon’s biography reveals England as an empire growing more unsteady, whose ability to influence and control faraway lands is not as certain as it might think.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Eminent Victorians&lt;/i&gt; took six years to write and was met with glowing reviews on its publication. It made Strachey famous and cemented his name in the list of top-tier biographers.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2447</dc:source>
 		<dc:source>https://books.google.com/books?id=N8oZAAAAYAAJ</dc:source>
