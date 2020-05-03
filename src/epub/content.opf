@@ -47,8 +47,8 @@
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
-		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Biography</meta>
+		<meta property="se:subject">Nonfiction</meta>
 		<dc:description id="description">Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Eminent Victorians&lt;/i&gt; consists of four short biographies by Lytton Strachey of Victorians who were famous in their day: Cardinal Manning, a powerful cleric; Florence Nightingale, founder of modern nursing; Thomas Arnold, founder of the modern-day English public school style; and General Gordon, a popular officer of the British Army.&lt;/p&gt;
