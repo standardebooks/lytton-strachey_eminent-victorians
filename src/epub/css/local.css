@@ -37,13 +37,14 @@ em strong{
 	max-width: 75%;
 }
 
-[epub|type~="preface"] footer + p{
+[epub|type~="preface"] footer p + p{
 	font-style: italic;
 	margin-top: 1em;
+	text-align: left;
 	text-indent: 0;
 }
 
-[epub|type~="preface"] footer + p i{
+[epub|type~="preface"] footer p + p i{
 	font-style: normal;
 }
 
