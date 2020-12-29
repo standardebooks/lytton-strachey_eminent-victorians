@@ -16,7 +16,7 @@ footer{
 
 [epub|type~="z3998:postscript"]{
 	margin-top: 1em;
-	text-align: left;
+	text-align: initial;
 }
 
 i em,
@@ -40,7 +40,7 @@ em strong{
 [epub|type~="preface"] footer p + p{
 	font-style: italic;
 	margin-top: 1em;
-	text-align: left;
+	text-align: initial;
 	text-indent: 0;
 }
 
@@ -71,7 +71,7 @@ table td ol{
 }
 
 [epub|type~="z3998:verse"] p{
-	text-align: left;
+	text-align: initial;
 	text-indent: 0;
 }
 
