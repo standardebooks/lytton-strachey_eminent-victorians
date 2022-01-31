@@ -33,9 +33,9 @@ em strong{
 [epub|type~="dedication"] p{
 	margin: auto;
 	margin-top: 3em;
+	max-width: 75%;
 	text-align: center;
 	text-indent: 0;
-	max-width: 75%;
 }
 
 [epub|type~="preface"] footer p + p{
