@@ -53,12 +53,14 @@ table{
 	margin: 1em auto;
 }
 
-table thead{
+table thead th{
 	font-variant: small-caps;
+	font-weight: normal;
 	text-align: center;
 }
 
-table td{
+table td,
+table th{
 	padding: .5em;
 	vertical-align: top;
 }
