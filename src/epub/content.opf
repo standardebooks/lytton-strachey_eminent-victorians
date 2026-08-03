@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/lytton-strachey/eminent-victorians</dc:identifier>
 		<dc:date>2018-09-11T23:58:20Z</dc:date>
@@ -54,13 +54,13 @@
 		<meta id="collection-1" property="belongs-to-collection">Modern Library’s 100 Best Nonfiction</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">53</meta>
-		<dc:description id="description">Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Four witty and biting biographies of Victorians that take aim at the moral superiority of their subject’s time.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;Eminent Victorians&lt;/i&gt; consists of four short biographies by &lt;a href="https://standardebooks.org/ebooks/lytton-strachey"&gt;Lytton Strachey&lt;/a&gt; of Victorians who were famous in their day: Cardinal Manning, a powerful cleric; Florence Nightingale, founder of modern nursing; Thomas Arnold, creator of the modern-day English public school; and General Gordon, a popular officer of the British Army.&lt;/p&gt;
 			&lt;p&gt;In Strachey’s day, these people were considered heroes and paragons of Victorian morality and ethics. But instead of lengthy, glowing biographies, Strachey opts for short, witty, and biting biographies that skewer their subjects. All of them are portrayed with their human flaws and moral contradictions on full display, implicitly knocking down the sanctimonious visions of these former heroes (perhaps with the exception of Nightingale, who, while portrayed as an often-cold and mercilessly driven taskmistress, nevertheless escaped with her reputation enhanced, not tarnished).&lt;/p&gt;
 			&lt;p&gt;The biographies are not only interesting for their wit, humor, and readability, but because of the windows they open to the issues of the age. Manning’s biography occurs against the backdrop of a time of upheaval in the English Catholic church, with concepts like Papal Infallability entering the picture; Nightingale’s biography shines light on the appalling conditions of war; Arnold’s biography is a lens on the development of formal education and schools; and Gordon’s biography reveals England as an empire teetering unsteadily, whose ability to influence and control faraway lands is not as certain as it might think.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Eminent Victorians&lt;/i&gt; took six years to write and was met with glowing reviews on its publication. It made Strachey famous and cemented his name in the list of literature’s top-tier biographers.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2447</dc:source>
 		<dc:source>https://books.google.com/books?id=N8oZAAAAYAAJ</dc:source>
