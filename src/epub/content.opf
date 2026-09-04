@@ -31,8 +31,8 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Eminent Victorians</dc:title>
 		<meta property="file-as" refines="#title">Eminent Victorians</meta>
-		<dc:subject id="subject-1">Great Britain -- Biography</dc:subject>
-		<dc:subject id="subject-2">Great Britain -- History -- Victoria, 1837-1901 -- Biography</dc:subject>
+		<dc:subject id="subject-1">Great Britain--Biography</dc:subject>
+		<dc:subject id="subject-2">Great Britain--History--Victoria, 1837-1901--Biography</dc:subject>
 		<dc:subject id="subject-3">Manning, Henry Edward, 1808-1892</dc:subject>
 		<dc:subject id="subject-4">Nightingale, Florence, 1820-1910</dc:subject>
 		<dc:subject id="subject-5">Arnold, Thomas, 1795-1842</dc:subject>
